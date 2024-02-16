@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xingjiao Wu"
-description              : "Erudite questioning, careful thinking, discerning, and practicing diligently"
+title                    : "Xingjiao Wu (吴兴蛟)"
+description              : "Postdoctoral fellow at Fudan University"
 repository               : "XingjiaoWu/XingjiaoWu.github.io/"
 google_scholar_stats_use_cdn : true
 
@@ -44,7 +44,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : "https://dblp.uni-trier.de/pid/232/1759.html" # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0000-0001-9146-051X" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
