@@ -17,19 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Xing Jiao, a Ph.D. holder currently serving as a Super Postdoctoral Researcher in Shanghai. My research journey has primarily centered around the realms of computer vision, generative artificial intelligence, digital medicine, and human-in-the-loop computing.
-
-With gratitude, I have had the privilege of contributing to the academic landscape through the publication of over 40 research papers in various international conferences and journals. Among them, I am humbled to share that 7 papers have found their place in SCI Q1/CCF A-tier venues, with 6 as the first author or corresponding author. An additional 12 papers have been accepted in SCI Q2/CCF B-tier outlets, with 7 as the first author or corresponding author.
-
-I am genuinely appreciative of the recognition received for one of my papers in FGCS, honored with the Editor’s Choice Papers award—an acknowledgment that reflects the collaborative effort within the academic community. Similarly, receiving the Best Paper Award at the McGE '23 conference, a CCF A-class workshop, is an acknowledgment that underscores the collective dedication to advancing knowledge.
-
-In terms of project leadership, I have had the privilege of contributing to open projects at the Shanghai Multi-Dimensional Information Processing Key Laboratory and guiding the Academic Innovation Capability Enhancement Program for Outstanding Ph.D. Students at East China Normal University. Additionally, serving as the project lead for collaborative initiatives with Huawei Noah's Ark Laboratory has been a collaborative effort that I cherish.
-
-I am sincerely grateful for the recognition received, including the First Prize in the 2022 Shanghai Technical Invention Award (ranking 13/15, the sole student recipient), and the Second Prize in the 2022 Annual Scientific and Technological Progress Award (ranking 6/10). Being recognized as a Rising Star of Chinese University Students during my doctoral studies and receiving the title of an Outstanding Graduate by the Shanghai Municipality are acknowledgments that I deeply value and appreciate.
-
-In all humility, I am eager to continue contributing to the academic community, embracing opportunities for collaborative research, and furthering the knowledge base in these evolving areas of study. 
-
-My research interest includes speech synthesis, neural machine translation and automatic music generation. I have published 50+ papers <a href='https://scholar.google.com/citations?user=BhA6vd0AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FXingjiaoWu%2FXingjiaoWu.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
+I am currently working as a postdoctoral fellow at Fudan University. 
+My research interest includes computer vision, generative artificial intelligence, digital medicine, and human-in-the-loop computing. 
+I have published 40+ papers <a href='https://scholar.google.com/citations?user=BhA6vd0AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FXingjiaoWu%2FXingjiaoWu.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> in important international conferences/journals.
+The paper published on FGCS won the Editor’s Choice Papers, and the paper at the McGE ’23 conference won the Best Paper Award. 
+I preside over the open subject project of Shanghai Key Laboratory of Multi-Dimensional Information Processing, the academic innovation ability improvement plan project for outstanding doctoral students of East China Normal University, and as the project leader preside over Huawei's Noah's Ark laboratory cooperation project, etc. 
+The research work won the first prize of the 2022 Shanghai Technological Invention Award (ranking 13/15, the only student), the second prize of the 2022 Scientific and Technological Progress Award (ranking 6/10), and he was awarded the Self-improvement Star of Chinese College Students (China Normal University) during his doctoral period. The only one selected in the year), Shanghai Outstanding Graduate and other honorary titles.
 
 
 # 🔥 News
@@ -57,30 +50,36 @@ My research interest includes speech synthesis, neural machine translation and a
 - *吴俊斌,吴晟,__吴兴蛟$^*$__.一种用于求解TSP问题的随机最佳插入烟花算法[J].计算机工程与科学,2020,42(11):2080-2087.
 
 # 🎖 Honors and Awards
-- 2022年度上海市科学技术奖（技术发明奖一等奖）（上海市人民政府） （2023，排名13/15，唯一学生）
-- 2022年度上海市科学技术奖（科技进步奖二等奖）（上海市人民政府） （2023，排名6/10）
-- 2020中国大学生自强之星（共青团中央、全国学联） (2021，华师大当年度唯一入选)
-- 上海市优秀毕业生（上海市教育委员会）（2022）
-- 中国研究生数学建模竞赛英才（中国研究生数学建模竞赛组委会）（2023，20年评选出30人）
-- 2023年CCF技术公益黑客马拉松大赛中荣获最佳方案奖（中国计算机学会） （2023，全场得分最高）
-- 2021-2022年度华东师范大学优秀学位论文（华东师范大学） （2022）
-- 华东师范大学优秀学生干部（华东师范大学） (2021)，华东师范大学优秀学生（华东师范大学） (2020)
-- 全国大学生电工数学建模竞赛一等奖（中国电机工程学会电工数学专委会） (2017)
+- 2022 Shanghai Science and Technology Award (First Prize of Technological Invention Award) (Shanghai Municipal People's Government) (2023, ranking 13/15, only student)
+- 2022 Shanghai Science and Technology Award (Second Prize for Science and Technology Progress Award) (Shanghai Municipal People's Government) (2023, ranking 6/10)
+- 2020 Star of Self-improvement for Chinese College Students (Central Committee of the Communist Youth League, All-China Federation of Students) (2021, the only one selected by East China Normal University that year)
+- Shanghai Outstanding Graduates (Shanghai Education Commission) (2022)
+- China Graduate Mathematical Modeling Competition Talents (China Graduate Mathematical Modeling Competition Organizing Committee) (2023, 30 people selected in 2020)
+- Won the Best Solution Award (China Computer Federation) in the 2023 CCF Technology Charity Hackathon Competition (2023, highest score overall)
+- 2021-2022 East China Normal University Outstanding Dissertation (East China Normal University) (2022)
+- Outstanding Student Leader of East China Normal University (East China Normal University) (2021), Outstanding Student of East China Normal University (East China Normal University) (2020)
+- First Prize in the National Undergraduate Electrical Mathematics Modeling Competition (Electrical Mathematics Committee of the Chinese Society of Electrical Engineering) (2017)
 
 # 📖 Educations
-- *2018.9-2022.6	华东师范大学 	计算机应用技术     工学博士
+- *2018.9-2022.6*, East China Normal University, Computer Application Technology, Doctor of Engineering
 
-- 研究方向：多媒体信息处理，计算机视觉，人机混合
+- Research directions: multimedia information processing, computer vision, human-computer hybrid
 
-- *2015.9-2018.6 	昆明理工大学 	计算机软件与理论   工学硕士
+- *2015.9-2018.6*, Kunming University of Science and Technology, Computer Software and Theory, Master of Engineering
 
-- 研究方向：算法研究，软件开发
+- Research directions: algorithm research, software development
 
-- *2011.9-2015.6 	昆明理工大学 	计算机科学与技术   工学学士
+- *2011.9-2015.6*, Kunming University of Science and Technology, Computer Science and Technology, Bachelor of Engineering
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Project
+- *Research on key technologies for complex document layout analysis based on human-in-the-loop. 2023 open project of Shanghai Key Laboratory of Multi-Dimensional Information Processing (Shanghai Key Laboratory of Multi-Dimensional Information Processing), 2023-2024, project leader (in research) )
+- *Research on pre-training model for general document layout analysis. Shanghai Super Postdoctoral Funding (Shanghai), 2022-2024, project leader (in research)
+- *Research on document layout analysis based on human-computer hybrid. Fudan University Super Postdoctoral Funding (Fudan University), 2022-2024, project leader (in research)
+- *Unified modeling technology of document visual features. Huawei Technologies Co., Ltd. (Huawei Noah's Ark Laboratory), 2022-2023, Project Leader (Project Completion)
+- *Research on key technologies of model lightweighting and model updating under human-machine hybrid intelligence (East China Normal University). East China Normal University Excellent Doctoral Students Academic Innovation Ability Improvement Plan, 2020-2022, Project Leader (Finalization)
+- *Model- and knowledge-driven theory and method of efficient medical image enhancement. Scientific and Technological Innovation 2030—"New Generation Artificial Intelligence" Major Project (Ministry of Science and Technology), 2022-2024, main participant (under research)
+- *Research on key technologies for traditional Chinese medicine identification based on human-machine hybrid. Yunnan Provincial Department of Education Scientific Research Fund Project (Yunnan Provincial Department of Education), 2021-2022, main participant (final project)
+- *Research on fuzzy defect classification technology based on human-machine hybrid. Shanghai Science and Technology Commission Science and Technology Innovation Action Plan (Shanghai Science and Technology Commission), 2020-2022, main participant (final project)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Work
+- *2022.06 - 2024.06*, [Fudan University](https://www.fudan.edu.cn/), China.
