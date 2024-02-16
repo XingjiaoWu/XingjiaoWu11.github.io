@@ -33,23 +33,23 @@ In all humility, I am eager to continue contributing to the academic community, 
 
 # 📝 Publications 
 
-1.X. Wu, L. Xiao, Y. Sun, J. Zhang, T. Ma, L. He, A Survey of Human-in-the-loop for Machine Learning, Future Generation Computer Systems,2022.[ Editor’s Choice Papers (编委会从近五年发表论文中提名，后评选出20篇，入选率约0.5% ) ]（中科院一区，IF=7.5）
-2.Y. Wan, W. Li, X. Wu*, J. Xu, and J. Yang. Auto-matic Image Aesthetic Assessment for Human-designed Digital Images. McGE ’23.2023.[Best paper] (通讯作者，CCF A类会议Workshop)
-3.X. Wu, Y. Zheng, T. Ma, H. Ye, L. He, Document Image Layout Analysis via Explicit Edge Embedding Network, Information Sciences, 2021.（中科院一区，IF=8.1）
-4.X. Wu, T. Ma, X. Du, Z. Hu, J. Yang, L. He, DRFN: A unified framework for complex document layout analysis, Information Processing & Management., 2023.（中科院一区，IF=8.6）
-5.X. Wu, L. Xiao, X. Du, Y. Zheng, X. Li, T. Ma, C. Jin, L. He,Cross-domain document layout analysis using document style guide, Expert Systems with Applications，2024（中科院一区，IF=8.5）
-6.L. Xiao, X. Wu*, J. Xu, W. Li, C. Jin, L. He. Atlantis: Aesthetic-oriented Multiple Granularities Fusion Network for Joint Multimodal Aspect-based Sentiment Analysis, Information Fusion, 2024.（通讯作者，中科院一区，IF=18.6）
-7.L. Xiao, X. Wu*, S. Yang, J. Xu, J. Zhou, L. He. Cross-modal Fine-grained Alignment and Fusion Network for Multimodal Aspect-based Sentiment Analysis, Information Processing & Management., 2023.（通讯作者，中科院一区，IF=8.6）
-8.X. Wu, Z. Hu, X. Du, J. Yang, L. He. Document Layout Analysis via Dynamic Residual Feature Fusion. ICME, 2021.（CCF B类会议 Oral）
-9.T. Ma, X. Wu†, X.Du, Y. Wang, C. Jin, Image Layer Modeling for Complex Document Layout Generation, ICME, 2023.（共一，CCF B类会议）
-10.J. Zhang, Z. Zhuang, L. Xiao, X. Wu*, T. Ma, L. He, Dual-Expert Distillation Network for Few-Shot Segmentation. ICME, 2023.（通讯作者，CCF B类会议）
-11.X. Wu, Y. Zheng, H. Ye, W. Hu, J. Yang, L. He, Adaptive Scenario Discovery for Crowd Counting. ICASSP, 2019.（CCF B类会议）
-12.X. Wu, B. Xu, Y. Zheng, H. Ye, J. Yang, L. He . Fast video crowd counting with a Temporal Aware Network. Neurocomputing, 2020.（中科院二区，IF=6.0）
-13.X. Wu, Y. Zheng, H. Ye, W. Hu, T. Ma, J. Yang, L. He, Counting Crowds with Varying Densities via Adaptive Scenario Discovery Framework[J], Neurocomputing , 2020.（中科院二区，IF=6.0）
-14.L. Xiao, X. Wu†, W. Wu ,J. Yang, L. He. Multi-channel Attentive Graph Convolutional Network With Sentiment Fusion For Multimodal Sentiment Analysis. ICASSP, 2022.（共一，CCF B类会议）
-15.J. He, X. Wu†, W. Hu, J. Yang, LSTMVA: vivid layout via LSTM-based Variational Autoencoder framework. ICDAR, 2021.（共一，CCF C类会议 文档处理顶级会议）
-16.X. Wu, S. Kong, Y. Zheng, H. Ye, J. Yang, L. He, Feature channel enhancement for crowd counting. IET Image Processing, 2020.（中科院四区，IF=2.3）
-17.吴俊斌,吴晟,吴兴蛟*.一种用于求解TSP问题的随机最佳插入烟花算法[J].计算机工程与科学,2020,42(11):2080-2087.（CCF C (中文)，中文核心，通讯作者）
+-1.X. Wu, L. Xiao, Y. Sun, J. Zhang, T. Ma, L. He, A Survey of Human-in-the-loop for Machine Learning, Future Generation Computer Systems,2022.[ Editor’s Choice Papers (编委会从近五年发表论文中提名，后评选出20篇，入选率约0.5% ) ]（中科院一区，IF=7.5）
+-2.Y. Wan, W. Li, X. Wu*, J. Xu, and J. Yang. Auto-matic Image Aesthetic Assessment for Human-designed Digital Images. McGE ’23.2023.[Best paper] (通讯作者，CCF A类会议Workshop)
+-3.X. Wu, Y. Zheng, T. Ma, H. Ye, L. He, Document Image Layout Analysis via Explicit Edge Embedding Network, Information Sciences, 2021.（中科院一区，IF=8.1）
+-4.X. Wu, T. Ma, X. Du, Z. Hu, J. Yang, L. He, DRFN: A unified framework for complex document layout analysis, Information Processing & Management., 2023.（中科院一区，IF=8.6）
+-5.X. Wu, L. Xiao, X. Du, Y. Zheng, X. Li, T. Ma, C. Jin, L. He,Cross-domain document layout analysis using document style guide, Expert Systems with Applications，2024（中科院一区，IF=8.5）
+-6.L. Xiao, X. Wu*, J. Xu, W. Li, C. Jin, L. He. Atlantis: Aesthetic-oriented Multiple Granularities Fusion Network for Joint Multimodal Aspect-based Sentiment Analysis, Information Fusion, 2024.（通讯作者，中科院一区，IF=18.6）
+-7.L. Xiao, X. Wu*, S. Yang, J. Xu, J. Zhou, L. He. Cross-modal Fine-grained Alignment and Fusion Network for Multimodal Aspect-based Sentiment Analysis, Information Processing & Management., 2023.（通讯作者，中科院一区，IF=8.6）
+-8.X. Wu, Z. Hu, X. Du, J. Yang, L. He. Document Layout Analysis via Dynamic Residual Feature Fusion. ICME, 2021.（CCF B类会议 Oral）
+-9.T. Ma, X. Wu†, X.Du, Y. Wang, C. Jin, Image Layer Modeling for Complex Document Layout Generation, ICME, 2023.（共一，CCF B类会议）
+-10.J. Zhang, Z. Zhuang, L. Xiao, X. Wu*, T. Ma, L. He, Dual-Expert Distillation Network for Few-Shot Segmentation. ICME, 2023.（通讯作者，CCF B类会议）
+-11.X. Wu, Y. Zheng, H. Ye, W. Hu, J. Yang, L. He, Adaptive Scenario Discovery for Crowd Counting. ICASSP, 2019.（CCF B类会议）
+-12.X. Wu, B. Xu, Y. Zheng, H. Ye, J. Yang, L. He . Fast video crowd counting with a Temporal Aware Network. Neurocomputing, 2020.（中科院二区，IF=6.0）
+-13.X. Wu, Y. Zheng, H. Ye, W. Hu, T. Ma, J. Yang, L. He, Counting Crowds with Varying Densities via Adaptive Scenario Discovery Framework[J], Neurocomputing , 2020.（中科院二区，IF=6.0）
+-14.L. Xiao, X. Wu†, W. Wu ,J. Yang, L. He. Multi-channel Attentive Graph Convolutional Network With Sentiment Fusion For Multimodal Sentiment Analysis. ICASSP, 2022.（共一，CCF B类会议）
+-15.J. He, X. Wu†, W. Hu, J. Yang, LSTMVA: vivid layout via LSTM-based Variational Autoencoder framework. ICDAR, 2021.（共一，CCF C类会议 文档处理顶级会议）
+-16.X. Wu, S. Kong, Y. Zheng, H. Ye, J. Yang, L. He, Feature channel enhancement for crowd counting. IET Image Processing, 2020.（中科院四区，IF=2.3）
+-17.吴俊斌,吴晟,吴兴蛟*.一种用于求解TSP问题的随机最佳插入烟花算法[J].计算机工程与科学,2020,42(11):2080-2087.（CCF C (中文)，中文核心，通讯作者）
 
 # 🎖 Honors and Awards
 -2022年度上海市科学技术奖（技术发明奖一等奖）（上海市人民政府） （2023，排名13/15，唯一学生）
