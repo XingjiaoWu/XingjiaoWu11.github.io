@@ -19,7 +19,7 @@ redirect_from:
 
 I am Xing Jiao, a Ph.D. holder currently serving as a Super Postdoctoral Researcher in Shanghai. My research journey has primarily centered around the realms of computer vision, generative artificial intelligence, digital medicine, and human-in-the-loop computing.
 
-With gratitude, I have had the privilege of contributing to the academic landscape through the publication of over 40 research papers in various international conferences and journals <a href='https://scholar.google.com/citations?user=BhA6vd0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. Among them, I am humbled to share that 7 papers have found their place in SCI Q1/CCF A-tier venues, with 6 as the first author or corresponding author. An additional 12 papers have been accepted in SCI Q2/CCF B-tier outlets, with 7 as the first author or corresponding author.
+With gratitude, I have had the privilege of contributing to the academic landscape through the publication of over 40 research papers in various international conferences and journals. Among them, I am humbled to share that 7 papers have found their place in SCI Q1/CCF A-tier venues, with 6 as the first author or corresponding author. An additional 12 papers have been accepted in SCI Q2/CCF B-tier outlets, with 7 as the first author or corresponding author.
 
 I am genuinely appreciative of the recognition received for one of my papers in FGCS, honored with the Editor’s Choice Papers award—an acknowledgment that reflects the collaborative effort within the academic community. Similarly, receiving the Best Paper Award at the McGE '23 conference, a CCF A-class workshop, is an acknowledgment that underscores the collective dedication to advancing knowledge.
 
@@ -28,6 +28,9 @@ In terms of project leadership, I have had the privilege of contributing to open
 I am sincerely grateful for the recognition received, including the First Prize in the 2022 Shanghai Technical Invention Award (ranking 13/15, the sole student recipient), and the Second Prize in the 2022 Annual Scientific and Technological Progress Award (ranking 6/10). Being recognized as a Rising Star of Chinese University Students during my doctoral studies and receiving the title of an Outstanding Graduate by the Shanghai Municipality are acknowledgments that I deeply value and appreciate.
 
 In all humility, I am eager to continue contributing to the academic community, embracing opportunities for collaborative research, and furthering the knowledge base in these evolving areas of study. 
+
+My research interest includes speech synthesis, neural machine translation and automatic music generation. I have published 50+ papers <a href='https://scholar.google.com/citations?user=4FA6C0AAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
+
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
