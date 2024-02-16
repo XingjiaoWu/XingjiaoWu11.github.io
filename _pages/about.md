@@ -29,6 +29,9 @@ I am sincerely grateful for the recognition received, including the First Prize 
 
 In all humility, I am eager to continue contributing to the academic community, embracing opportunities for collaborative research, and furthering the knowledge base in these evolving areas of study. 
 
+# 🔥 News
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 
 # 📝 Publications 
