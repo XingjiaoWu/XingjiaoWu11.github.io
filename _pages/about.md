@@ -34,10 +34,11 @@ The research work won the first prize of the 2022 Shanghai Technological Inventi
 - __X. Wu__, L. Xiao, Y. Sun, J. Zhang, T. Ma, L. He, A Survey of Human-in-the-loop for Machine Learning, Future Generation Computer Systems,2022.[ Editor’s Choice Papers]
 - Y. Wan, W. Li, __X. Wu$^*$__, J. Xu, and J. Yang. Auto-matic Image Aesthetic Assessment for Human-designed Digital Images. McGE ’23.2023.[Best paper]
 - __X. Wu__, Y. Zheng, T. Ma, H. Ye, L. He, Document Image Layout Analysis via Explicit Edge Embedding Network, Information Sciences, 2021.
-- __X. Wu__, T. Ma, X. Du, Z. Hu, J. Yang, L. He, DRFN: A unified framework for complex document layout analysis, Information Processing & Management., 2023.
+- __X. Wu__, T. Ma, X. Du, Z. Hu, J. Yang, L. He, DRFN: A unified framework for complex document layout analysis, Information Processing \& Management., 2023.
 - __X. Wu__, L. Xiao, X. Du, Y. Zheng, X. Li, T. Ma, C. Jin, L. He,Cross-domain document layout analysis using document style guide, Expert Systems with Applications，2024.
 - L. Xiao, __X. Wu$^*$__, J. Xu, W. Li, C. Jin, L. He. Atlantis: Aesthetic-oriented Multiple Granularities Fusion Network for Joint Multimodal Aspect-based Sentiment Analysis, Information Fusion, 2024.
-- L. Xiao, __X. Wu$^*$__, S. Yang, J. Xu, J. Zhou, L. He. Cross-modal Fine-grained Alignment and Fusion Network for Multimodal Aspect-based Sentiment Analysis, Information Processing & Management., 2023.
+- L. Xiao, __X. Wu$^*$__, S. Yang, J. Xu, J. Zhou, L. He. Cross-modal Fine-grained Alignment and Fusion Network for Multimodal Aspect-based Sentiment Analysis, Information Processing \& Management., 2023.
+- J. Liao, __X. Wu$^*$__, Y. Wu and J. Shu. K-NNDP: K-means algorithm based on nearest neighbor density peak optimization and outlier removal, Knowledge-Based Systems, 2024.
 - __X. Wu__, Z. Hu, X. Du, J. Yang, L. He. Document Layout Analysis via Dynamic Residual Feature Fusion. ICME, 2021.
 - T. Ma, __X. Wu$^†$__, X.Du, Y. Wang, C. Jin, Image Layer Modeling for Complex Document Layout Generation, ICME, 2023.
 - J. Zhang, Z. Zhuang, L. Xiao, __X. Wu$^*$__, T. Ma, L. He, Dual-Expert Distillation Network for Few-Shot Segmentation. ICME, 2023.
