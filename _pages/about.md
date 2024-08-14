@@ -26,8 +26,7 @@ The research work won the first prize in the 2022 Shanghai Technological Inventi
 
 
 # 🔥 News
-- 2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- 2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 
 
 
 # 📝 Publications 
@@ -39,6 +38,7 @@ The research work won the first prize in the 2022 Shanghai Technological Inventi
 - L. Xiao, __X. Wu$^*$__, J. Xu, W. Li, C. Jin, L. He. Atlantis: Aesthetic-oriented Multiple Granularities Fusion Network for Joint Multimodal Aspect-based Sentiment Analysis, Information Fusion, 2024.
 - L. Xiao, __X. Wu$^*$__, S. Yang, J. Xu, J. Zhou, L. He. Cross-modal Fine-grained Alignment and Fusion Network for Multimodal Aspect-based Sentiment Analysis, Information Processing \& Management., 2023.
 - J. Liao, __X. Wu$^*$__, Y. Wu and J. Shu. K-NNDP: K-means algorithm based on nearest neighbor density peak optimization and outlier removal, Knowledge-Based Systems, 2024.
+- X. Du, Z. Zhou, __X. Wu$^*$__, Y. Wang, Z. Wang, Y. Zheng, C. Jin. MultiColor: Image Colorization by Learning from Multiple Color Spaces, ACM Multimedia 2024, 2024.
 - __X. Wu__, Z. Hu, X. Du, J. Yang, L. He. Document Layout Analysis via Dynamic Residual Feature Fusion. ICME, 2021.
 - T. Ma, __X. Wu$^†$__, X.Du, Y. Wang, C. Jin, Image Layer Modeling for Complex Document Layout Generation, ICME, 2023.
 - J. Zhang, Z. Zhuang, L. Xiao, __X. Wu$^*$__, T. Ma, L. He, Dual-Expert Distillation Network for Few-Shot Segmentation. ICME, 2023.
