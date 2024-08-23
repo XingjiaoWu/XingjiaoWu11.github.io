@@ -1,9 +1,3 @@
-# main links links
-main:
-  - title: "个人简介"
-    url: "/#about-me"
-    
-
   - title: "学术成果（部分）"
     url: " /publications/"
     
@@ -18,3 +12,8 @@ main:
 
   - title: "English"
     url: "/english/"
+
+    # main links links
+main:
+  - title: "个人简介"
+    url: "/#about-me"
