@@ -7,7 +7,7 @@ main:
     url: "/#-news"
 
   - title: "学术成果（部分）"
-    url: "/#-publications"
+    url: " /publications/"
 
   - title: "奖励荣誉"
     url: "/#-honors-and-awards"
