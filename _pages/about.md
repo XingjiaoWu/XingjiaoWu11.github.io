@@ -23,7 +23,7 @@ redirect_from:
 # 🔥 News
 - 
 
-# 📝 学术成果（部分）
+# 📝 Publications
 - __X. Wu__, L. Xiao, Y. Sun, J. Zhang, T. Ma, L. He, A Survey of Human-in-the-loop for Machine Learning, Future Generation Computer Systems,2022.[ Editor’s Choice Papers (编委会从近五年发表论文中提名评选，入选率约0.5% )，ESI高被引论文]（中科院一区，IF=6.2）
 - Y. Wan, W. Li,__X. Wu$^*$__, J. Xu, and J. Yang. Auto-matic Image Aesthetic Assessment for Human-designed Digital Images. McGE ’23.2023.[Best paper] (通讯作者，CCF A类会议Workshop)
 - __X. Wu__, Y. Zheng, T. Ma, H. Ye, L. He, Document Image Layout Analysis via Explicit Edge Embedding Network, Information Sciences, 2021.（中科院一区，IF=8.1（2022））
@@ -45,7 +45,7 @@ redirect_from:
 - 吴俊斌,吴晟,吴兴蛟*.一种用于求解TSP问题的随机最佳插入烟花算法[J].计算机工程与科学,2020,42(11):2080-2087.（CCF C (中文)，中文核心，通讯作者）
 
 
-# 🎖 奖励荣誉 
+# 🎖 Honors and Awards 
 - 2022年度上海市科学技术奖（技术发明奖一等奖）（上海市人民政府） （2023，排名13/15，唯一学生）
 - 2022年度上海市科学技术奖（科技进步奖二等奖）（上海市人民政府） （2023，排名6/10）
 - 2020中国大学生自强之星（共青团中央、全国学联）(2021，华师大当年度唯一入选)
@@ -58,7 +58,7 @@ redirect_from:
 
 
 
-# 📖 教育背景
+# 📖 Educations
 - 2018.9-2022.6	华东师范大学 	计算机应用技术     工学博士        导师：贺樑 教授
   
   研究方向：多媒体信息处理，计算机视觉，人机混合
@@ -71,7 +71,7 @@ redirect_from:
   
 
 
-# 💬 项目经历
+# 💬 Project
 - 基于人在回路的复杂文档布局分析关键技术研究.上海市多维度信息处理重点实验室2023年度开放课题(上海市多维度信息处理重点实验室), 2023-2024, 项目负责人（在研）
 - 通用文档布局分析预训练模型研究.上海市超级博士后资助(上海市), 2022-2024, 项目负责人（结题）
 - 基于人机混合的文档布局分析研究.复旦大学超级博士后资助(复旦大学), 2022-2024, 项目负责人（结题）
@@ -84,7 +84,7 @@ redirect_from:
 
 
 
-# 💻 工作背景
+# 💻 Work
 - 2022.6-至今	复旦大学(https://www.fudan.edu.cn/) 	博士后（上海市超级博士后、复旦大学超级博士后）            合作导师：金城 教授
   
   研究方向：计算机视觉，生成式人工智能，数字药物，人在回路计算
