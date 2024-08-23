@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /honors/
 title: ""
 excerpt: ""
 author_profile: true
