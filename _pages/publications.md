@@ -1,11 +1,8 @@
 ---
-permalink: /about/
-title: ""
-excerpt: ""
+layout: archive
+title: "Publications"
+permalink: /publications/
 author_profile: true
-redirect_from: 
-  - /about/publications/
-  - /about/publications.html
 ---
 
 
