@@ -1,7 +1,10 @@
 ---
-title: "Publications"
+layout: archive
+title: "honors"
 permalink: /honors/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
 
