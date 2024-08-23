@@ -10,13 +10,13 @@ main:
     url: "/#-publications"
 
   - title: "奖励荣誉"
-    url: "/#-honor"
+    url: "/#-honors and Awards"
 
   - title: "教育背景"
-    url: "/#教育背景"
+    url: "/#-educations"
 
   - title: "项目经历"
-    url: "/#-项目经历"
+    url: "/#-project"
 
   - title: "工作背景"
     url: "/#-work"
