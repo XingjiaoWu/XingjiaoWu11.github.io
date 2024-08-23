@@ -7,19 +7,19 @@ main:
     url: "/#-news"
 
   - title: "学术成果（部分）"
-    url: "/#-学术成果（部分）"
+    url: "/#-publications"
 
   - title: "奖励荣誉"
-    url: "/#-奖励荣誉"
+    url: "/#-honor"
 
   - title: "教育背景"
-    url: "/#-教育背景"
+    url: "/#-education"
 
   - title: "项目经历"
-    url: "/#-项目经历"
+    url: "/#-project"
 
   - title: "工作背景"
-    url: "/#-工作背景"
+    url: "/#-work"
 
   - title: "English"
     url: "/#-english"
