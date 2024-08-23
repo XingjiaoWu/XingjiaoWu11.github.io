@@ -12,14 +12,8 @@ main:
   - title: "奖励荣誉"
     url: "/honors/"
 
-  - title: "教育背景"
-    url: "/#-educations"
-
   - title: "项目经历"
-    url: "/#-project"
-
-  - title: "工作背景"
-    url: "/#-work"
+    url: "/project/"
 
   - title: "English"
-    url: "/#-english"
+    url: "/english/"
