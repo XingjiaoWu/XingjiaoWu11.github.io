@@ -4,18 +4,18 @@ main:
     url: "/#about-me"
     
   - title: "学术成果（部分）"
-    url: " /publications"
+    url: " /about/publications/"
     
 
   - title: "奖励荣誉"
-    url: "/honors"
+    url: "/honors/"
     
 
   - title: "项目经历"
-    url: "/project"
+    url: "/project/"
     
 
   - title: "English"
-    url: "/english"
+    url: "/english/"
 
 
