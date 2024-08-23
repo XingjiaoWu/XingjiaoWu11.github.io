@@ -2,18 +2,23 @@
 main:
   - title: "个人简介"
     url: "/#about-me"
+    
 
   - title: "主要研究工作"
      url: "/research/"
+     
 
   - title: "学术成果（部分）"
     url: " /publications/"
+    
 
   - title: "奖励荣誉"
     url: "/honors/"
+    
 
   - title: "项目经历"
     url: "/project/"
+    
 
   - title: "English"
     url: "/english/"
