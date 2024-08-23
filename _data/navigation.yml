@@ -4,7 +4,7 @@ main:
     url: "/#about-me"
     
   - title: "学术成果（部分）"
-    url: " /about/publications/"
+    url: " /publications/"
     
 
   - title: "奖励荣誉"
