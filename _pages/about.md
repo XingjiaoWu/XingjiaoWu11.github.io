@@ -25,7 +25,6 @@ redirect_from:
 
 <span class='anchor' id='publications'></span>
 # 📝 学术成果（部分）
-- __X. Wu__, L. Xiao, Y. Sun, J. Zhang, T. Ma, L. He, A Survey of Human-in-the-loop for Machine Learning, Future Generation Computer Systems,2022.[ Editor’s Choice Papers]
 - __X. Wu__, L. Xiao, Y. Sun, J. Zhang, T. Ma, L. He, A Survey of Human-in-the-loop for Machine Learning, Future Generation Computer Systems,2022.[ Editor’s Choice Papers (编委会从近五年发表论文中提名评选，入选率约0.5% )，ESI高被引论文]（中科院一区，IF=6.2）
 - Y. Wan, W. Li,__X. Wu$^*$__, J. Xu, and J. Yang. Auto-matic Image Aesthetic Assessment for Human-designed Digital Images. McGE ’23.2023.[Best paper] (通讯作者，CCF A类会议Workshop)
 - __X. Wu__, Y. Zheng, T. Ma, H. Ye, L. He, Document Image Layout Analysis via Explicit Edge Embedding Network, Information Sciences, 2021.（中科院一区，IF=8.1（2022））
