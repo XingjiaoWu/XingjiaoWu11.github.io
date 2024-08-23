@@ -3,9 +3,6 @@ permalink: /honors/
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
-  - /honors/
-  - /honors.html
 ---
 
 # 🎖 奖励荣誉 
