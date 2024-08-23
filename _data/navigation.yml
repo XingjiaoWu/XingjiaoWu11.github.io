@@ -6,17 +6,20 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "学术成果（部分）"
+    url: "/#-学术成果（部分）"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "奖励荣誉"
+    url: "/#-奖励荣誉"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "教育背景"
+    url: "/#-教育背景"
 
-  - title: "Project"
-    url: "/#-project"
+  - title: "项目经历"
+    url: "/#-项目经历"
 
-  - title: "Work"
-    url: "/#-work"
+  - title: "工作背景"
+    url: "/#-工作背景"
+
+  - title: "English"
+    url: "/#-english"
