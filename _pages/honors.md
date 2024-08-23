@@ -1,8 +1,9 @@
 ---
+title: "Publications"
 permalink: /honors/
-title: ""
-excerpt: ""
+author_profile: true
 ---
+
 
 # 🎖 奖励荣誉 
 - 2022年度上海市科学技术奖（技术发明奖一等奖）（上海市人民政府） （2023，排名13/15，唯一学生）
