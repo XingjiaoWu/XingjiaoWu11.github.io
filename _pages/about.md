@@ -25,11 +25,11 @@ I preside over the open subject project of Shanghai Key Laboratory of Multi-Dime
 The research work won the first prize in the 2022 Shanghai Technological Invention Award (ranking 13/15, the only student), the second prize in the 2022 Scientific and Technological Progress Award (ranking 6/10).
 
 
-# 🔥 News
+# 🔥 新闻
 - 
 
 
-# 📝 Publications 
+# 📝 出版论文
 - __X. Wu__, L. Xiao, Y. Sun, J. Zhang, T. Ma, L. He, A Survey of Human-in-the-loop for Machine Learning, Future Generation Computer Systems,2022.[ Editor’s Choice Papers]
 - Y. Wan, W. Li, __X. Wu$^*$__, J. Xu, and J. Yang. Auto-matic Image Aesthetic Assessment for Human-designed Digital Images. McGE ’23.2023.[Best paper]
 - __X. Wu__, Y. Zheng, T. Ma, H. Ye, L. He, Document Image Layout Analysis via Explicit Edge Embedding Network, Information Sciences, 2021.
@@ -50,7 +50,7 @@ The research work won the first prize in the 2022 Shanghai Technological Inventi
 - __X. Wu__, S. Kong, Y. Zheng, H. Ye, J. Yang, L. He, Feature channel enhancement for crowd counting. IET Image Processing, 2020.
 - 吴俊斌,吴晟,__吴兴蛟$^*$__.一种用于求解TSP问题的随机最佳插入烟花算法[J].计算机工程与科学,2020,42(11):2080-2087.
 
-# 🎖 Honors and Awards
+# 🎖 奖励
 - 2022 Shanghai Science and Technology Award (First Prize of Technological Invention Award) (Shanghai Municipal People's Government) (2023, ranking 13/15, only student)
 - 2022 Shanghai Science and Technology Award (Second Prize for Science and Technology Progress Award) (Shanghai Municipal People's Government) (2023, ranking 6/10)
 - 2020 Star of Self-improvement for Chinese College Students (Central Committee of the Communist Youth League, All-China Federation of Students) (2021, the only one selected by East China Normal University that year)
@@ -61,7 +61,7 @@ The research work won the first prize in the 2022 Shanghai Technological Inventi
 - Outstanding Student Leader of East China Normal University (East China Normal University) (2021), Outstanding Student of East China Normal University (East China Normal University) (2020)
 - First Prize in the National Undergraduate Electrical Mathematics Modeling Competition (Electrical Mathematics Committee of the Chinese Society of Electrical Engineering) (2017)
 
-# 📖 Educations
+# 📖 教育
 - 2018.9-2022.6*, East China Normal University, Computer Application Technology, Doctor of Engineering
 
 - Research directions: multimedia information processing, computer vision, human-computer hybrid
@@ -84,3 +84,7 @@ The research work won the first prize in the 2022 Shanghai Technological Inventi
 
 # 💻 Work
 - 2022.06 - 2024.06*, [Fudan University](https://www.fudan.edu.cn/), China.
+  
+
+# 💻 English
+
