@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xingjiao Wu (吴兴蛟)"
-description              : "Postdoctoral fellow at Fudan University"
+description              : "博士后"
 repository               : "XingjiaoWu/XingjiaoWu.github.io/"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xingjiao Wu <br /> (吴兴蛟)"
   avatar           : "images/android-chrome-192x192.png"
-  bio              : "Fudan University"
-  location         : "Shanghai, China"
+  bio              : "复旦大学"
+  location         : "上海, 中国"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=BhA6vd0AAAAJ"
