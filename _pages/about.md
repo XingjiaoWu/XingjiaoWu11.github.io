@@ -23,7 +23,6 @@ redirect_from:
 # 🔥 News
 - 
 
-<span class='anchor' id='publications'></span>
 # 📝 学术成果（部分）
 - __X. Wu__, L. Xiao, Y. Sun, J. Zhang, T. Ma, L. He, A Survey of Human-in-the-loop for Machine Learning, Future Generation Computer Systems,2022.[ Editor’s Choice Papers (编委会从近五年发表论文中提名评选，入选率约0.5% )，ESI高被引论文]（中科院一区，IF=6.2）
 - Y. Wan, W. Li,__X. Wu$^*$__, J. Xu, and J. Yang. Auto-matic Image Aesthetic Assessment for Human-designed Digital Images. McGE ’23.2023.[Best paper] (通讯作者，CCF A类会议Workshop)
@@ -45,7 +44,7 @@ redirect_from:
 - J. He,__X. Wu$^†$__, W. Hu, J. Yang, LSTMVA: vivid layout via LSTM-based Variational Autoencoder framework. ICDAR, 2021.（共一，CCF C类会议 文档处理顶级会议）
 - 吴俊斌,吴晟,吴兴蛟*.一种用于求解TSP问题的随机最佳插入烟花算法[J].计算机工程与科学,2020,42(11):2080-2087.（CCF C (中文)，中文核心，通讯作者）
 
-<span class='anchor' id='honor'></span>
+
 # 🎖 奖励荣誉 
 - 2022年度上海市科学技术奖（技术发明奖一等奖）（上海市人民政府） （2023，排名13/15，唯一学生）
 - 2022年度上海市科学技术奖（科技进步奖二等奖）（上海市人民政府） （2023，排名6/10）
@@ -57,7 +56,8 @@ redirect_from:
 - 华东师范大学优秀学生干部（华东师范大学） (2021)，华东师范大学优秀学生（华东师范大学） (2020)
 - 全国大学生电工数学建模竞赛一等奖（中国电机工程学会电工数学专委会） (2017)
 
-<span class='anchor' id='education'></span>
+
+
 # 📖 教育背景
 - 2018.9-2022.6	华东师范大学 	计算机应用技术     工学博士        导师：贺樑 教授
   
@@ -69,7 +69,8 @@ redirect_from:
                      
 - 2011.9-2015.6 	昆明理工大学 	计算机科学与技术   工学学士
   
-<span class='anchor' id='project'></span>
+
+
 # 💬 项目经历
 - 基于人在回路的复杂文档布局分析关键技术研究.上海市多维度信息处理重点实验室2023年度开放课题(上海市多维度信息处理重点实验室), 2023-2024, 项目负责人（在研）
 - 通用文档布局分析预训练模型研究.上海市超级博士后资助(上海市), 2022-2024, 项目负责人（结题）
@@ -82,7 +83,7 @@ redirect_from:
 - 基于人机混合的模糊缺陷分类技术研究.上海市科学技术委员会科技创新行动计划(上海市科委), 2020-2022, 主要参与人（结题）
 
 
-<span class='anchor' id='work'></span>
+
 # 💻 工作背景
 - 2022.6-至今	复旦大学(https://www.fudan.edu.cn/) 	博士后（上海市超级博士后、复旦大学超级博士后）            合作导师：金城 教授
   
