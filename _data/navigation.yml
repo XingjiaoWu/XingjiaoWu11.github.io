@@ -4,10 +4,6 @@ main:
     url: "/#about-me"
     
 
-  - title: "主要研究工作"
-     url: "/research/"
-     
-
   - title: "学术成果（部分）"
     url: " /publications/"
     
