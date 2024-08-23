@@ -2,7 +2,6 @@
 permalink: /honors/
 title: ""
 excerpt: ""
-author_profile: true
 ---
 
 # 🎖 奖励荣誉 
